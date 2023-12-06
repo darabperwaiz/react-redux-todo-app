@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Create React Redux Todo App 
+
+![Screenshot 2023-12-07 012408](https://github.com/darabperwaiz/react-redux-todo-app/assets/96805782/fbc5679b-e3f6-470e-87b7-4bf50411a181)
+live at:  https://darabperwaiz.github.io/react-redux-todo-app/
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
