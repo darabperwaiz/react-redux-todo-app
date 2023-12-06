@@ -1,0 +1,36 @@
+.todos-container form {
+    display: flex;
+    gap: 5px;
+}
+
+.todos-container input {
+    width: 100%;
+    padding: 10px 10px;
+    border: none;
+    background: none;
+    border: 2px solid #5FFBF1;
+    border-radius: 30px;
+    font-size: 15px;
+    box-shadow: 10px 10px 14px 1px rgba(00,00,00,0.2);
+}
+
+.todos-container input::placeholder {
+    color: white;
+}
+
+.todos-container button {
+    font-size: 19px;
+    width: 50px;
+    border: none;
+    background: #5FFBF1;
+    -webkit-box-shadow: 10px 10px 14px 1px rgba(00,00,00,0.2);
+    box-shadow: 10px 10px 14px 1px rgba(00,00,00,0.2);
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+}
+
+.todos-container button:hover {
+    background: #00e1d2;
+    cursor: pointer;
+}
