@@ -1,4 +1,4 @@
-# Getting Started with Create React Redux Todo App 
+# Getting Started with Create React Redux Todo App CRUD
 
 ![Screenshot 2023-12-07 012408](https://github.com/darabperwaiz/react-redux-todo-app/assets/96805782/fbc5679b-e3f6-470e-87b7-4bf50411a181)
 live at:  https://darabperwaiz.github.io/react-redux-todo-app/
